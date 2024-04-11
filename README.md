@@ -1,0 +1,1 @@
+This is a simple repo to practice basic html elements. If you think it is ugly then maybe it is also a mirror because you ugly.
